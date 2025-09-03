@@ -3,6 +3,10 @@
 
 **Rodrids-dev/Rodrids-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Ingeniero+Mecatronico+..&hearts;++;Programador+de+Python;Me+gusta+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source.">
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
