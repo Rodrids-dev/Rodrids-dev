@@ -8,8 +8,7 @@
 ## 👨‍💻 Sobre mí  
 - 🎓 Estudiante de **Ingeniería en Computación**  
 - 💡 Apasionado por la **Ingeniería de Software**  
-- 🚀 Me encanta trabajar en **proyectos de desarrollo**  
-- 🎨 Mi color favorito es el **azul**  
+- 🚀 Me encanta trabajar en **proyectos de desarrollo**   
 - 📈 Estoy construyendo mi portafolio en GitHub para encontrar oportunidades  
 
 ---
