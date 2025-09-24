@@ -9,7 +9,7 @@
 - 🎓 Estudiante de **Ingeniería en Computación**  
 - 💡 Apasionado por la **Ingeniería de Software**  
 - 🚀 Me encanta trabajar en **proyectos de desarrollo**   
-- 📈 Estoy construyendo mi portafolio en GitHub para encontrar oportunidades  
+- 📈 Estoy construyendo mi portafolio en GitHub   
 
 ---
 
