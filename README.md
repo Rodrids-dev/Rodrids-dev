@@ -8,7 +8,9 @@
 ## 👨‍💻 Sobre mí  
 - 🎓 Estudiante de **Ingeniería en Computación**  
 - 💡 Apasionado por la **Ingeniería de Software**  
-- 🚀 Me encanta trabajar en **proyectos de desarrollo**   
+- ✅ Me interesa crear **productos de software de calidad**.
+- 🚀 Me gustan las **arquitecturas robustas** y bien estructuradas.
+- 📊 Interesado también en la **administración de proyectos de desarrollo**.  
 - 📈 Estoy construyendo mi portafolio en GitHub   
 
 ---
@@ -16,7 +18,13 @@
 ## 🌐 Redes Sociales  
 <p align="center">
   <a href="https://www.instagram.com/rodri.ids" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=blue" alt="Instagram"/>
+    <img src="https://images.icon-icons.com/1945/PNG/512/iconfinder-instagram-4661602_122473.png" alt="Instagram" width="70" height="70"/>
+  </a>
+  <img>
+  <img>
+  <img>
+  <a href="https://www.facebook.com/rodrigo.diaz.960644?locale=es_LA" target="_blank">
+    <img src="https://images.icon-icons.com/1945/PNG/512/iconfinder-facebook-4661598_122469.png" alt="Facebook" width="70" height="70"/>
   </a>
 </p>
 
@@ -24,10 +32,13 @@
 
 ## 🛠️ Tecnologías que me gustan
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="100" height="100"/>
+  <img>
+  <img src="https://lenguajesprogramacionblog.wordpress.com/wp-content/uploads/2017/04/pascal_logo.png?w=1024" alt="Pascal" width="170" height="170"/>
+  <img>
+  <img>
+  <img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="100" height="100"/>
 </p>
 
 ---
@@ -40,7 +51,7 @@
 
 ---
 
-## ✨ Extra llamativo
+## ✨ Extra 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodrids-dev&bg_color=0d1117&color=1E90FF&line=4169E1&point=00BFFF&area=true&hide_border=true" />
 </p>
